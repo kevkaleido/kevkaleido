@@ -28,8 +28,9 @@ If you have a project that could use my skills, or if you're looking for a dedic
 
 ## 📫 Get in Touch
 
-- [twitter.com/sleekdevv]
-- [kelvinkalumba189@gmail.com]
 
+
+- [X](https://twitter.com/sleekdevv) or
+- [Email](mailto:kelvinkalumba189@gmail.com)
 
 Let's build something amazing together! 🌟
