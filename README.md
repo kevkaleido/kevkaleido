@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**kevkaleido/kevkaleido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋 I'm Kelvin
 
-Here are some ideas to get you started:
+## 🚀 Full Stack Developer in the Making
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm on an exciting journey to become a versatile full stack developer. My current tech stack includes:
+
+- HTML, CSS, JavaScript
+- React (currently learning)
+- TypeScript & Next.js (on my learning roadmap)
+
+
+## 💡 Open to Opportunities
+
+I'm actively seeking opportunities to:
+- Collaborate on interesting projects
+- Learn from experienced developers
+- Apply my skills to real-world problems
+
+If you have a project that could use my skills, or if you're looking for a dedicated developer to join your team, please hit me up! I promise I don't byte. 😉
+
+## 🔍 What I'm Looking For
+
+- Projects that push my boundaries
+- Mentorship opportunities
+- Open source contributions
+- Innovative tech stacks to explore
+
+## 📫 Get in Touch
+
+- [twitter.com/sleekdevv]
+- [kelvinkalumba189@gmail.com]
+
+
+Let's build something amazing together! 🌟
