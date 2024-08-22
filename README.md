@@ -1,13 +1,9 @@
 
-# Hi there! 👋 I'm Kelvin
+# Hi there! Kelvin here
 
 ## 🚀 Full Stack Developer in the Making
 
-I'm on an exciting journey to become a versatile full stack developer. My current tech stack includes:
-
-- HTML, CSS, JavaScript
-- React (currently learning)
-- TypeScript & Next.js (on my learning roadmap)
+I'm unto becoming a versatile full stack developer. I started learning to code not too long ago, and I'm surprised and equally glad at how far I've come and could go. I am looking for a chance to contribute my kind of tinkering to meaningful use.
 
 
 ## 💡 Open to Opportunities
@@ -17,7 +13,7 @@ I'm actively seeking opportunities to:
 - Learn from experienced developers
 - Apply my skills to real-world problems
 
-If you have a project that could use my skills, or if you're looking for a dedicated developer to join your team, please hit me up! I promise I don't byte. 😉
+If you have what could use my skills, or if you're looking for a dedicated developer to join your team, please hit me up! I promise I don't byte. 😉
 
 ## 🔍 What I'm Looking For
 
@@ -30,7 +26,7 @@ If you have a project that could use my skills, or if you're looking for a dedic
 
 
 
-- [X](https://twitter.com/sleekdevv) 
+- [X](https://twitter.com/kevkaleido) 
 - [Email](mailto:kelvinkalumba189@gmail.com)
 
-Let's build something amazing together! 🌟
+Let's build something cool together! 
