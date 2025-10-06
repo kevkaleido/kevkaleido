@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Kelvin, and I'm making the jump into data analysis! Coming from a video production background, I love finding ways to tell compelling stories with data. It's been quite the journey learning SQL, diving into data warehousing, and figuring out how to turn messy data into actually useful insights.
+I'm Kelvin, and I'm making the jump into data analysis! Coming from a video production background, I love finding ways to tell compelling stories with data. It's been quite the journey diving into data warehousing and figuring out how to turn messy data into actually useful insights.
 
 ## What I've been working on
 
