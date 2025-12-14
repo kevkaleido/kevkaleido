@@ -8,7 +8,7 @@ I find that I now enjoy the full spectrum of data work: designing data warehouse
 
 Here are a couple of projects I've put together so far:
 
-### **[Stock Analytics Pipeline](https://github.com/kevkaleido/stock-analytics-pipeline)**
+### **[Stock Analytics Pipeline](https://github.com/kevkaleido/stock-analytics-pipeline)** 
 End-to-end stock market analysis pipeline: Python data extraction → SQL analysis → Power BI visualization. Analyzes stocks across S&P 500, NASDAQ & Russell 2000, calculating TSR, volatility, Sharpe ratio and other key metrics.
 
 ### **[SQL Data Warehouse Project](https://github.com/kevkaleido/sql-data-warehouse-project)**
