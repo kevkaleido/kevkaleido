@@ -1,4 +1,4 @@
-# Hi there, I'm Kelvin 👋
+# Hi there, I'm Kelvin 
 
 I find that I now enjoy the full spectrum of data work: designing data warehouses, writing efficient SQL queries, building automated pipelines, and creating visualizations that tell compelling stories. I am continuously expanding my toolkit and exploring new ways to work with data.
 
