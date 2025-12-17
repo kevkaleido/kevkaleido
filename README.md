@@ -27,4 +27,4 @@ This project makes use of SQL scripts for data exploration, analytics, and repor
 
 You can reach out to me via [here](kelvinkalumba189@gmail.com)
 
-Always ooking for where I can scale my impact 
+Always looking for where I can scale my impact 
